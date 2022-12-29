@@ -1,0 +1,15 @@
+
+
+Hacer pull request
+
+1. Entrar al proyecto
+2. Entrar a la pestaña pullrequest
+3. Seleccionar el proyecto 
+Ingresamos a la pestaña file change 
+review changes
+Escribis comentario
+Click en aprove
+Click submit reiview
+
+
+

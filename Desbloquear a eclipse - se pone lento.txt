@@ -1,0 +1,9 @@
+
+
+Cuando eclipse bloquea al copiar y pegar:
+
+Windope --> preference, general --> editors --> editores de texto --> hipervinculo -->
+
+Solo dejar marcado lo que diga java editor y las 9 ultimas opciones
+
+
